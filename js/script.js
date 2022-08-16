@@ -190,17 +190,17 @@
         return !!(reg.length && navigator.userAgent.match(new RegExp(reg.join('|'), 'i')));
     };
 
-    var isSupportViewportUnits = (function () {
+   // var isSupportViewportUnits = (function () {
         // modernizr implementation
-        var div = document.createElement('div');
-        var body = document.querySelector('body');
-        div.setAttribute('style', 'height: 50vh; position: absolute; top: -1000px; left: -1000px;');
-        body.appendChild(div);
-        var height = parseInt(window.innerHeight / 2, 10);
-        var compStyle = parseInt((window.getComputedStyle ? getComputedStyle(div, null) : div.currentStyle)['height'], 10);
-        body.removeChild(div);
-        return compStyle == height;
-    }());
+   //     var div = document.createElement('div');
+   //     var body = document.querySelector('body');
+   //     div.setAttribute('style', 'height: 50vh; position: absolute; top: -1000px; left: -1000px;');
+   //     body.appendChild(div);
+   //     var height = parseInt(window.innerHeight / 2, 10);
+   //     var compStyle = parseInt((window.getComputedStyle ? getComputedStyle(div, null) : div.currentStyle)['height'], 10);
+   //     body.removeChild(div);
+   //     return compStyle == height;
+  //  }());
 
     
 
@@ -1339,4 +1339,4 @@
             document.querySelectorAll('.pie_progress').forEach(function(el) {initCircleProgress(el)})
         }
     }
-}());
+});
