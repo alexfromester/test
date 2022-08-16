@@ -1,0 +1,298 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/aleksandr/Documents/Personal"
+	],
+	"file_history":
+	[
+		"/Users/aleksandr/Downloads/New website/index.html",
+		"/Users/aleksandr/email-finder/find_email_addresses.py",
+		"/Users/aleksandr/websites/csrtag2020.com/public/index.html",
+		"/Users/aleksandr/websites/roi4web.de/public/htaccess.txt",
+		"/Users/aleksandr/websites/bohnjosepheyemd.org/inventory.yml",
+		"/Users/aleksandr/websites/csrtag2020.com/inventory.yml",
+		"/Users/aleksandr/websites/paeddass.de/public/robots.txt",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=contact.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=start.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=start.php&history=1",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=content/news.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=content/news.php&contentid=25",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=content/overview.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=content/search.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=faq/faq.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=forum/index.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=galerie/menu.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=guestbook/viewgb.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=login/subpass.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=login/userinfo.php&id=1",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=login/userinfo.php&id=5",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=login/userinfo.php&id=7",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=login/userinfo.php&id=8",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=11&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=12&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=13&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=2&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=3&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=4&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=5&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=6&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=7&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&result=9&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=10",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=10&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=11",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=11&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=12",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=13",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=13&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=14",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=14&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=15",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=16",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=16&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=2",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=2&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=3",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=3&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=4",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=4&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=5",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=5&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=6",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=7",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=7&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=8",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=8&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=9",
+		"/Users/aleksandr/websites/paeddass.de/public/include.php?path=vote/archiv.php&vid=9&comcat=vote",
+		"/Users/aleksandr/websites/paeddass.de/public/index.html",
+		"/Users/aleksandr/websites/paeddass.de/public/.htaccess",
+		"/Users/aleksandr/websites/paeddass.de/public/techdata/index.html",
+		"/Users/aleksandr/websites/paeddass.de/public/techdata/include.php?path=galerie/pic.php&pid=15",
+		"/Users/aleksandr/websites/roi4web.de/public/.htaccess",
+		"/Users/aleksandr/websites/roi4web.de/public/index.html",
+		"/Users/aleksandr/websites/roi4web.de/public/robots.txt",
+		"/Users/aleksandr/websites/roi4web.de/public/impressum.htm",
+		"/Users/aleksandr/websites/studiox-designs.org/public/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/contact-us/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/privacy/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/services/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/services/cheap-web-design/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/services/ecommerce-web-design/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/services/marketing-advertising/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/small-business-website-design/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/small-business-website-design/?utm_source=rss&utm_medium=rss&utm_campaign=small-business-website-design/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/terms-of-services/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/10-things-consider-choosing-e-commerce-web-design/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/10-things-consider-choosing-e-commerce-web-design/?utm_source=rss&utm_medium=rss&utm_campaign=10-things-consider-choosing-e-commerce-web-design/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/8-things-to-consider-before-hiring-a-website-designer/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/8-things-to-consider-before-hiring-a-website-designer/?utm_source=rss&utm_medium=rss&utm_campaign=8-things-to-consider-before-hiring-a-website-designer/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/a-step-by-step-seo-guide-for-your-ecommerce-business-website/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/a-step-by-step-seo-guide-for-your-ecommerce-business-website/?utm_source=rss&utm_medium=rss&utm_campaign=a-step-by-step-seo-guide-for-your-ecommerce-business-website/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/about-us/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/author/bujadmin/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/author/johan/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/best-mobile-phone-call-3g-4g-internet-packages-pakistan/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/best-mobile-phone-call-3g-4g-internet-packages-pakistan/?utm_source=rss&utm_medium=rss&utm_campaign=best-mobile-phone-call-3g-4g-internet-packages-pakistan/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/blog/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/category/seo/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/category/studiox-blog/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/category/web-development/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/cheap-web-design-services-in-miami/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/cheap-web-design-services-in-miami/?utm_source=rss&utm_medium=rss&utm_campaign=cheap-web-design-services-in-miami/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/how-to-find-best-web-designer-in-miami/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/how-to-find-best-web-designer-in-miami/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-find-best-web-designer-in-miami/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/miami-seo/index.html",
+		"/Users/aleksandr/websites/studiox-designs.org/public/miami-seo/?utm_source=rss&utm_medium=rss&utm_campaign=miami-seo/index.html",
+		"/Users/aleksandr/websites/blacklions.at/public/Default.aspx?SIid=26&LAid=1",
+		"/Users/aleksandr/websites/blacklions.at/public/Default.aspx?SIid=17&LAid=1",
+		"/Users/aleksandr/websites/scouts-southwestscotland.org.uk/inventory.yml",
+		"/Users/aleksandr/websites/scouts-southwestscotland.org.uk/public/links/links.htm",
+		"/Users/aleksandr/websites/gummi-platten.at/public/comments/feed/index.html",
+		"/Users/aleksandr/websites/gummi-platten.at/public/feed/index.html",
+		"/Users/aleksandr/websites/gummi-platten.at/public/wp-content/themes/pacific/style.min.css",
+		"/Users/aleksandr/websites/gummi-platten.at/public/wp-content/themes/pacific/assets/vendor/js/html5.min.js?ver=3.7.3",
+		"/Users/aleksandr/websites/gummi-platten.at/public/wp-json/oembed/1.0/embed?url=http:/www.gummi-platten.at/&format=xml/index.html",
+		"/Users/aleksandr/websites/gummi-platten.at/public/index.html",
+		"/Users/aleksandr/websites/gummi-platten.at/public/xmlrpc.php?rsd",
+		"/Users/aleksandr/websites/interactive-design.at/public/robots.txt",
+		"/Users/aleksandr/websites/oehv-kongress.at/public/index.html",
+		"/Users/aleksandr/websites/interactive-design.at/public/index.php",
+		"/Users/aleksandr/websites/racing-green-gmbh.de/public/.htaccess",
+		"/Users/aleksandr/websites/racing-green-gmbh.de/public/robots.txt",
+		"/Users/aleksandr/websites/racing-green-gmbh.de/public/ankauf.htm",
+		"/Users/aleksandr/websites/racing-green-gmbh.de/public/2007_Jaguar_E_Coupe.htm",
+		"/Users/aleksandr/websites/racing-green-gmbh.de/public/2007_Nov_DaimlerDart.htm",
+		"/Users/aleksandr/websites/racing-green-gmbh.de/public/2007_Porsche_356-Racer.htm",
+		"/Users/aleksandr/websites/racing-green-gmbh.de/public/2014 Austin Healey.htm",
+		"/Users/aleksandr/websites/racing-green-gmbh.de/public/Jaguar XK 120 SE DHC.htm",
+		"/Users/aleksandr/websites/racing-green-gmbh.de/public/2006_jag_e.htm",
+		"/Users/aleksandr/websites/oehv-kongress.at/public/de/location/location/21-0.html",
+		"/Users/aleksandr/websites/oehv-kongress.at/public/de/partner/a1-telekom-austria/24-106.html",
+		"/Users/aleksandr/websites/oehv-kongress.at/public/de/partner/abcfinance/24-91.html",
+		"/Users/aleksandr/websites/oehv-kongress.at/public/de/partner/ada-cosmetics-international/24-14.html",
+		"/Users/aleksandr/websites/oehv-kongress.at/public/de/partner/ambiente-frankfurt/24-66.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "personal website.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 425.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
