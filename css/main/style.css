@@ -7,7 +7,7 @@ body {
   font-style: normal;
   line-height: 1.5;
   font-weight: 400;
-  color: #232323;
+  color: #323031;
   position: relative;
 }
 
@@ -783,7 +783,7 @@ body {
 .form-control {
   background-color: #ffffff;
   background-clip: border-box;
-  color: #232323;
+  color: #1C1C20;
   line-height: 1rem !important;
   height: auto;
   padding: 0.6rem 1.2rem;
