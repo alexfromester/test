@@ -562,6 +562,7 @@ a[class*="text-"]:not(.nav-link):not(.dropdown-item):not([role]):not(.navbar-cap
 a,
 a:hover {
   color: #191919;
+  font-weight: bold;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
@@ -678,6 +679,7 @@ body {
 }
 a {
   transition: color 0.6s;
+  text-decoration: underline;
 }
 .cid-sOn4DV5YRt .navbar-dropdown {
   position: fixed !important;
